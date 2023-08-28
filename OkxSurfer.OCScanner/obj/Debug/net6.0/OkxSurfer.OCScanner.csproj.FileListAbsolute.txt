@@ -1,0 +1,17 @@
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\bin\Debug\net6.0\OkxSurfer.OCScanner.deps.json
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\bin\Debug\net6.0\OkxSurfer.OCScanner.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\bin\Debug\net6.0\OkxSurfer.OCScanner.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\bin\Debug\net6.0\OkxSurfer.Builder.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\bin\Debug\net6.0\OkxSurfer.Common.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\bin\Debug\net6.0\OkxSurfer.Builder.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\bin\Debug\net6.0\OkxSurfer.Common.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.csproj.AssemblyReference.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.AssemblyInfoInputs.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.AssemblyInfo.cs
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.csproj.CoreCompileInputs.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.csproj.CopyComplete
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\refint\OkxSurfer.OCScanner.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\OkxSurfer.OCScanner.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.OCScanner\obj\Debug\net6.0\ref\OkxSurfer.OCScanner.dll

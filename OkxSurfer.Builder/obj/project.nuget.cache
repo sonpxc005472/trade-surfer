@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vM/Z/sARli8UPjI4hIFNRGX80Q6kWY4H5joqmqfZBDKwWKZkeo1y9wFB/BGbxt9j5yGMh8lmaz2EsGqKpBlEA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Builder\\OkxSurfer.Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\son.phanxuan\\.nuget\\packages\\apisharp\\1.4.0\\apisharp.1.4.0.nupkg.sha512",
+    "C:\\Users\\son.phanxuan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\son.phanxuan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\son.phanxuan\\.nuget\\packages\\okx.api\\1.2.2\\okx.api.1.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\bin\Debug\net6.0\OkxSurfer.Infrastructure.deps.json
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\bin\Debug\net6.0\OkxSurfer.Infrastructure.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\bin\Debug\net6.0\OkxSurfer.Infrastructure.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\OkxSurfer.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\OkxSurfer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\OkxSurfer.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\OkxSurfer.Infrastructure.AssemblyInfo.cs
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\OkxSurfer.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\OkxSurfer.Infrastructure.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\refint\OkxSurfer.Infrastructure.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\OkxSurfer.Infrastructure.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Infrastructure\obj\Debug\net6.0\ref\OkxSurfer.Infrastructure.dll

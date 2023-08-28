@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkxSurfer", "OkxSurfer\OkxSurfer.csproj", "{AD26173F-27DA-4C1A-8D86-EA17D8C62B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkxSurfer.OCScanner", "OkxSurfer.OCScanner\OkxSurfer.OCScanner.csproj", "{3DCCCE83-2AD0-4119-8125-1ABBFD30BBBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkxSurfer.Builder", "OkxSurfer.Builder\OkxSurfer.Builder.csproj", "{741C7D81-4D0B-4BB5-9583-B64AF22BE8C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkxSurfer.Common", "OkxSurfer.Common\OkxSurfer.Common.csproj", "{468F5F4F-B46B-40F0-905A-09697A8C7957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkxSurfer.Infrastructure", "OkxSurfer.Infrastructure\OkxSurfer.Infrastructure.csproj", "{0FE5ADB2-BA98-49FF-A13C-345BE1255106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{5500721F-3467-403D-937C-FC079F29C003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD26173F-27DA-4C1A-8D86-EA17D8C62B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD26173F-27DA-4C1A-8D86-EA17D8C62B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD26173F-27DA-4C1A-8D86-EA17D8C62B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD26173F-27DA-4C1A-8D86-EA17D8C62B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCCCE83-2AD0-4119-8125-1ABBFD30BBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCCCE83-2AD0-4119-8125-1ABBFD30BBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCCCE83-2AD0-4119-8125-1ABBFD30BBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCCCE83-2AD0-4119-8125-1ABBFD30BBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741C7D81-4D0B-4BB5-9583-B64AF22BE8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741C7D81-4D0B-4BB5-9583-B64AF22BE8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741C7D81-4D0B-4BB5-9583-B64AF22BE8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741C7D81-4D0B-4BB5-9583-B64AF22BE8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468F5F4F-B46B-40F0-905A-09697A8C7957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468F5F4F-B46B-40F0-905A-09697A8C7957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468F5F4F-B46B-40F0-905A-09697A8C7957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468F5F4F-B46B-40F0-905A-09697A8C7957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE5ADB2-BA98-49FF-A13C-345BE1255106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE5ADB2-BA98-49FF-A13C-345BE1255106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE5ADB2-BA98-49FF-A13C-345BE1255106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE5ADB2-BA98-49FF-A13C-345BE1255106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5500721F-3467-403D-937C-FC079F29C003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5500721F-3467-403D-937C-FC079F29C003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5500721F-3467-403D-937C-FC079F29C003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5500721F-3467-403D-937C-FC079F29C003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AFC250-443D-4404-A5B1-5B99F287F49C}
+	EndGlobalSection
+EndGlobal

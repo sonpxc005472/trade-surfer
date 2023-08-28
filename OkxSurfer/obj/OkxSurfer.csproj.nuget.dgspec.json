@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer\\OkxSurfer.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Builder\\OkxSurfer.Builder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Builder\\OkxSurfer.Builder.csproj",
+        "projectName": "OkxSurfer.Builder",
+        "projectPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Builder\\OkxSurfer.Builder.csproj",
+        "packagesPath": "C:\\Users\\son.phanxuan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Builder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\son.phanxuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Common\\OkxSurfer.Common.csproj": {
+                "projectPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Common\\OkxSurfer.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OKX.Api": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Common\\OkxSurfer.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Common\\OkxSurfer.Common.csproj",
+        "projectName": "OkxSurfer.Common",
+        "projectPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Common\\OkxSurfer.Common.csproj",
+        "packagesPath": "C:\\Users\\son.phanxuan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\son.phanxuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OKX.Api": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.OCScanner\\OkxSurfer.OCScanner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.OCScanner\\OkxSurfer.OCScanner.csproj",
+        "projectName": "OkxSurfer.OCScanner",
+        "projectPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.OCScanner\\OkxSurfer.OCScanner.csproj",
+        "packagesPath": "C:\\Users\\son.phanxuan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.OCScanner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\son.phanxuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Builder\\OkxSurfer.Builder.csproj": {
+                "projectPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.Builder\\OkxSurfer.Builder.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer\\OkxSurfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer\\OkxSurfer.csproj",
+        "projectName": "OkxSurfer",
+        "projectPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer\\OkxSurfer.csproj",
+        "packagesPath": "C:\\Users\\son.phanxuan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\son.phanxuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.OCScanner\\OkxSurfer.OCScanner.csproj": {
+                "projectPath": "D:\\Projects\\Trade\\OkxSurfer\\OkxSurfer.OCScanner\\OkxSurfer.OCScanner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

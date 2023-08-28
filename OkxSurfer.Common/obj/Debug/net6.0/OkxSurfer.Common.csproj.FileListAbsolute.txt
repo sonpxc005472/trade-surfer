@@ -1,0 +1,12 @@
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\bin\Debug\net6.0\OkxSurfer.Common.deps.json
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\bin\Debug\net6.0\OkxSurfer.Common.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\bin\Debug\net6.0\OkxSurfer.Common.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\OkxSurfer.Common.csproj.AssemblyReference.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\OkxSurfer.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\OkxSurfer.Common.AssemblyInfoInputs.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\OkxSurfer.Common.AssemblyInfo.cs
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\OkxSurfer.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\OkxSurfer.Common.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\refint\OkxSurfer.Common.dll
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\OkxSurfer.Common.pdb
+D:\Projects\Trade\OkxSurfer\OkxSurfer.Common\obj\Debug\net6.0\ref\OkxSurfer.Common.dll
